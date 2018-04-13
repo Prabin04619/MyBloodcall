@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "97757118703",
+    "firebase_url": "https://mybloodcall.firebaseio.com",
+    "project_id": "mybloodcall",
+    "storage_bucket": "mybloodcall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97757118703:android:826f1889e6bf9dc5",
+        "android_client_info": {
+          "package_name": "com.example.hunter.mybloodcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97757118703-dsdsmtq4ip93i87e810mnrhh0dd7dfkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hunter.mybloodcall",
+            "certificate_hash": "c529a60ec646dc6d33de6b26a79b8008c477ab09"
+          }
+        },
+        {
+          "client_id": "97757118703-24u910sjqemlj6nhsbc0svk0o6811rr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEKHeRX0N3T_h5Fvo7apu2dPfvRUzFho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97757118703-24u910sjqemlj6nhsbc0svk0o6811rr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
